@@ -36,5 +36,8 @@ public class ChampollionJUnitTest {
                          "L'enseignant doit maintenant avoir 30 heures prévues pour l'UE 'uml'");		
 		
 	}
+
+	@Test
+	
 	
 }
